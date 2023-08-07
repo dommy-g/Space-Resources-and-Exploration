@@ -1,3 +1,5 @@
+Outfitting Mars habitat by using additive manufacturing and topology optimization
+
 tAMing particles is capturing an opportunity to apply for DoraHacks Space Resources and Exploration Grant.
 The grant opens up an opportunity to develop the project of outfitting Mars habitat further. 
 
